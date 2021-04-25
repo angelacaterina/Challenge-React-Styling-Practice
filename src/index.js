@@ -10,10 +10,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const date = new Date();
-//const date = new Date(2021, 1, 1, 0);
-//const date = new Date(2021, 1, 1, 12);
-//const date = new Date(2021, 1, 1, 18);
-
 const currentTime = date.getHours();
 let greeting;
 
